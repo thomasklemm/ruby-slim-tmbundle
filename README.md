@@ -6,7 +6,8 @@ This is the [Textmate](http://macromates.com/) bundle for [Slim](http://slim-lan
 
 ## Installation
 
-    cd ~/Library/Application\ Support/TextMate/Bundles/
+    cd ~/Library/Application\ Support/TextMate/Bundles/ (if you use TextMate)
+    cd ~/Library/Application\ Support/Sublime Text 2/Packages (if you use Sublime Text 2)
     git clone git://github.com/fredwu/ruby-slim-tmbundle.git Ruby-Slim.tmbundle
     osascript -e 'tell app "TextMate" to reload bundles'
 
